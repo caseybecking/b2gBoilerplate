@@ -1,0 +1,11 @@
+{
+    "name":"b2gBoilerplate",
+    "developer": {
+        "name":"Developer",
+        "url":"http://mozilla.org"
+    },
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lobortis mi volutpat lacus porttitor in dignissim ligula tempor. Proin cursus adipiscing ultrices. Pellentesque pulvinar, neque placerat pellentesque varius, neque augue volutpat lectus, in interdum enim mauris eu tellus. Vivamus eget arcu erat. Sed mi lacus, elementum a porta sed, scelerisque nec magna. Sed commodo ultrices odio, nec imperdiet mi faucibus ac. Aliquam eu est et neque fringilla lobortis ac vitae orci. Curabitur aliquam, quam porttitor pretium feugiat, mi enim eleifend eros, ac laoreet lacus lorem et magna. Phasellus ultricies elit et sem fringilla vitae mollis odio volutpat. Integer in ligula sit amet erat fringilla interdum. Nam volutpat lacus in neque pretium imperdiet consequat augue hendrerit.",
+    "icons":{
+        "128":"/icon.png"
+    }
+}
